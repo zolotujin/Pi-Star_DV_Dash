@@ -8,13 +8,13 @@ $lang = array (
   // Banner texts
   "digital_voice"               =>  "Voz Digital",
   "configuration"               =>  "Configuração",
-  "dashboard_for"               =>  "Painel de Controle para",
+  "dashboard_for"               =>  "Painel de Controle de",
   // Banner links
   "dashboard"                   =>  "Painel",
   "admin"                       =>  "Admin",
   "power"                       =>  "Ação",
   "update"                      =>  "Atualizar",
-  "backup_restore"              =>  "Backupear/Restaurar",
+  "backup_restore"              =>  "Backup/Restaurar",
   "factory_reset"               =>  "Resetar",
   "live_logs"                   =>  "Logs Ao Vivo",
   // Config page section headdings
@@ -32,7 +32,7 @@ $lang = array (
   // Config Page - Section General
   "setting"                     =>  "Configurações",
   "value"                       =>  "Valores",
-  "apply"                       =>  "Aplicar Alterações",
+  "apply"                       =>  "Aplicar",
   // Config Page - Gateway Hardware Information
   "hostname"                    =>  "Nome do Host",
   "kernel"                      =>  "Kernel",
@@ -61,7 +61,7 @@ $lang = array (
   "radio_type"                  =>  "Tipo de Radio/Modem",
   "node_type"                   =>  "Tipo de Node",
   "timezone"                    =>  "Horário do Sistema",
-  "dash_lang"                   =>  "Idioma do Painel de Controle",
+  "dash_lang"                   =>  "Selecionar Idioma",
   // Config Page - DMR Configuration
   "dmr_master"                  =>  "DMR Master (MMDVMHost)",
   "bm_master"                   =>  "BrandMeister Master",
@@ -128,6 +128,6 @@ $lang = array (
   "active_starnet_members"      =>  "Grupo de Membros Ativos na Starnet",
   "d-star_link_manager"         =>  "Gerenciar Conexão D-Star",
   "d-star_link_status"          =>  "Informações do Link D-Star",
-  "service_status"              =>  "Status do Serviço"
+  "service_status"              =>  "Status do Sistema"
 );
 ?>
